@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Proxy-Pattern:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proxy_Pattern_jar</output-path>
+    <root id="archive" name="Proxy-Pattern.jar">
+      <element id="module-output" name="Proxy-Pattern" />
+    </root>
+  </artifact>
+</component>
