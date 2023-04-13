@@ -24,7 +24,7 @@ public class PasswordManagerProxy implements PasswordManager {
     }
 
     private void verifyPasswordUsed() {
-        File localRecords = new File("./localRecords.txt");
+        File localRecords = new File("./records/localRecords.txt");
         try {
             Scanner scanner = new Scanner(localRecords);
             scanner.nextLine();

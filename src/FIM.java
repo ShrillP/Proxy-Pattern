@@ -14,7 +14,7 @@ public class FIM {
     }
 
     public void updatePassword() {
-        File FIMRecords = new File("./FIMRecords.txt");
+        File FIMRecords = new File("./records/FIMRecords.txt");
         ArrayList<String[]> records = new ArrayList<String[]>();
         try {
             Scanner scanner = new Scanner(FIMRecords);
