@@ -22,9 +22,8 @@ This section will walk you through running the application. There are two ways y
     - Navigate into the `Proxy-Pattern` directory using your terminal of choice 
     - From here, navigate into the `RUN-ME` directory using the following command: `cd RUN-ME`
     - Now run the followinng command: `java -jar Proxy-Pattern.jar`
-  - **Running Application Through Your IDE**
-    
-    - **NOTE:** This method of running the application will change the `.txt` files in the `records` directory in the `Proxy-Pattern` folder. If you would like to further test the application, please edit the `.txt` files in this directory as these are the files that the IDE has access to.
-      - Download and unzip the provided .zip file
-      - Open the `Proxy-Pattern` folder in your IDE of choice (your IDE should have Java available to it)
-      - Run the `App.java` file and begin using the application in the terminal the pop up
+- **Running Application Through Your IDE**  
+  - **NOTE:** This method of running the application will change the `.txt` files in the `records` directory in the `Proxy-Pattern` folder. If you would like to further test the application, please edit the `.txt` files in this directory as these are the files that the IDE has access to.
+    - Download and unzip the provided .zip file
+    - Open the `Proxy-Pattern` folder in your IDE of choice (your IDE should have Java available to it)
+    - Run the `App.java` file and begin using the application in the terminal the pop up
